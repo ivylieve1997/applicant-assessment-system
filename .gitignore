@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.env*
+!.env.example
+coverage/
+*.tsbuildinfo
+test-results/
+playwright-report/
+.vercel/
+uploads/
+reports/
+applicant-data/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp

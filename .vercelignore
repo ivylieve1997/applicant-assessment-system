@@ -1,0 +1,13 @@
+.git
+.env*
+test-results
+playwright-report
+coverage
+uploads
+reports
+applicant-data
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
